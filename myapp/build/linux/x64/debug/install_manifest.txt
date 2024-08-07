@@ -1,0 +1,14 @@
+/workspaces/Dart_Flutter/myapp/build/linux/x64/debug/bundle/myapp
+/workspaces/Dart_Flutter/myapp/build/linux/x64/debug/bundle/data/icudtl.dat
+/workspaces/Dart_Flutter/myapp/build/linux/x64/debug/bundle/lib/libflutter_linux_gtk.so
+/workspaces/Dart_Flutter/myapp/build/linux/x64/debug/bundle/data/flutter_assets/AssetManifest.json
+/workspaces/Dart_Flutter/myapp/build/linux/x64/debug/bundle/data/flutter_assets/shaders/ink_sparkle.frag
+/workspaces/Dart_Flutter/myapp/build/linux/x64/debug/bundle/data/flutter_assets/packages/cupertino_icons/assets/CupertinoIcons.ttf
+/workspaces/Dart_Flutter/myapp/build/linux/x64/debug/bundle/data/flutter_assets/version.json
+/workspaces/Dart_Flutter/myapp/build/linux/x64/debug/bundle/data/flutter_assets/NOTICES
+/workspaces/Dart_Flutter/myapp/build/linux/x64/debug/bundle/data/flutter_assets/AssetManifest.bin
+/workspaces/Dart_Flutter/myapp/build/linux/x64/debug/bundle/data/flutter_assets/NOTICES.Z
+/workspaces/Dart_Flutter/myapp/build/linux/x64/debug/bundle/data/flutter_assets/FontManifest.json
+/workspaces/Dart_Flutter/myapp/build/linux/x64/debug/bundle/data/flutter_assets/kernel_blob.bin
+/workspaces/Dart_Flutter/myapp/build/linux/x64/debug/bundle/data/flutter_assets/AssetManifest.bin.json
+/workspaces/Dart_Flutter/myapp/build/linux/x64/debug/bundle/data/flutter_assets/fonts/MaterialIcons-Regular.otf
